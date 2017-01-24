@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E://temparatureconverter/temparatureconverter.iml" filepath="E://temparatureconverter/temparatureconverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temparatureconverter.iml" filepath="$PROJECT_DIR$/temparatureconverter.iml" />
     </modules>
   </component>
 </project>
